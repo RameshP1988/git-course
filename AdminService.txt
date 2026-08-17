@@ -4,9 +4,5 @@ manage the database
 closing the connection
 
 change1
-<<<<<<< HEAD
-change2 in my database
-=======
 change2 in harsh database
->>>>>>> feature3
 change3
